@@ -1,5 +1,8 @@
 
 *Problem*
+
+
+
 Chef has recently been playing a lot of chess in preparation for the ICCT (International Chef Chess Tournament).
 
 Since putting in long hours is not an easy task, Chef's mind wanders elsewhere. He starts counting the number of squares with odd side length on his chessboard..
