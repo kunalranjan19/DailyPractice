@@ -16,6 +16,8 @@ The next TT lines will have a single integer NN, the size of the chess board.
 
 * 1001≤T≤100
 * 10001≤N≤1000
+
+
 Sample 1:
 Input:
 2
