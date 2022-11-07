@@ -1,1 +1,26 @@
 
+*Problem*
+Chef has recently been playing a lot of chess in preparation for the ICCT (International Chef Chess Tournament).
+
+Since putting in long hours is not an easy task, Chef's mind wanders elsewhere. He starts counting the number of squares with odd side length on his chessboard..
+
+However, Chef is not satisfied. He wants to know the number of squares of odd side length on a generic N*NN∗N chessboard.
+
+###Input:
+
+The first line will contain a single integer TT, the number of test cases.
+The next TT lines will have a single integer NN, the size of the chess board.
+###Output: For each test case, print a integer denoting the number of squares with odd length.
+
+###Constraints
+
+* 1001≤T≤100
+* 10001≤N≤1000
+Sample 1:
+Input:
+2
+3
+8
+Output:
+10
+120
