@@ -24,12 +24,12 @@ The next TT lines will have a single integer NN, the size of the chess board.
 Sample 1:
 Input:
 
-2
-3
-8
+2__
+3__
+8__
 
 
 Output:
 
-10
-120
+10__
+120__
