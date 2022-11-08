@@ -1,7 +1,7 @@
-Problem
+#Problem
 You have a binary string SS. You can perform the following operation on SS:
 
-Select any substring S_{L \dots R}S 
+Select any substring S_{L.....R}
 L…R
 ​
   (1 \le L \le R \le |S|)(1≤L≤R≤∣S∣) which is sorted in non-decreasing order and remove it from SS. (Both the left and right halves are concatenated after performing the operation)
