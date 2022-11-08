@@ -1,4 +1,5 @@
-####problem/Chef likes to mix colors a lot. Recently, she was gifted N colors A1, A2, ..., AN by her friend.
+####problem
+Chef likes to mix colors a lot. Recently, she was gifted N colors A1, A2, ..., AN by her friend.
 
 Chef wants to make the values of all her colors pairwise distinct, as they will then look stunningly beautiful. In order to achieve that, she can perform the following mixing operation zero or more times:
 
